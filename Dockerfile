@@ -54,6 +54,7 @@ RUN \
         git \
         graphviz \
         libpcre3 \
+        openocd \
         parallel \
         pcregrep \
         python \
